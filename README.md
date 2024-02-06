@@ -3,10 +3,10 @@
 # Hi there👋! I'm Anmol 🙋‍♂️
 
 🎍 Welcome to my hub 👨‍💻
-- 👨‍🎓 21 year old Information Technology Engineering Undergrad student
+- 👨‍🎓 Frontend Developer with 2.5yrs of fulltime experience
 - 👨‍💻 #SelfTaught Guy.
-- 👨‍💻 Mostly working on ❤️ Python ❤️ HTML ❤️ CSS ❤️ Javascript ❤️ ReactJS!
-- 🌐 Little bit in Machine Learning too.
+- 👨‍💻 Mostly working on ❤️ Python ❤️ HTML ❤️ CSS ❤️ Javascript ❤️ ReactJS ❤️ NodeJS!
+- 🌐 Love to learn new technologies
 - Loves 🎮 and 🎵.
 
 <!---
